@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="btn">
-                <a href="https://github.com/gaohDe/MagicMusic" target="_blank">
+                <a href="https://github.com/gaohDe/MagicPlayer" target="_blank">
                     <i class="icon">&#xe6ed;</i>Github
                 </a>
             </div>
